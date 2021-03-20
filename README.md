@@ -1,1 +1,2 @@
 - Flexbox: Efeito usando o flexbox
+- FlipCard: Efeito usando Jquery
